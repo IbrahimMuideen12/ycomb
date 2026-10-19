@@ -1,0 +1,109 @@
+* {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.top {
+    width: 100%;
+    height: 100%;
+    background-color: #F5F5EE;
+}
+.boss {
+    display:flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+
+}
+.list {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin: auto;
+}
+.button {
+     display: flex;
+     gap: 25px;
+     align-items: center;
+}
+.left {
+    text-decoration: none;
+    color: black;
+}
+.left2 {
+    text-decoration: none;
+    color: white;
+}
+.apply {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+.head {
+    font-size: 70px;
+    font-family: "Source Serif 4", serif;
+    text-align: center;
+    font-style: italic;
+    line-height: 1.2;
+}
+.one {
+    font-size: 20px;
+    font-family: "Source Serif 4", serif;
+    text-align: center;
+    padding-top: 50px;
+    font-style: italic;
+    line-height: 2;
+}
+.are {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: -150px;
+    font-family: "Source Serif 4", serif;
+
+}
+.two {
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+    padding-left: 250px;
+    font-family: "Source Serif 4", serif;
+    /* margin-left: 250px; */
+}
+
+.all {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Source Serif 4", serif;
+    padding-bottom: 80px;
+    font-style: italic;
+}
+.founders {
+    width: 100%;
+    height: 430px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    position: relative;
+     
+}
+.founders1 {
+    width: 350px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+    border-radius: 10px; 
+    background-color:rgb(0, 0, 0,0.4);
+    background-blend-mode: overlay;
+}
+.content {
+    padding-top: 230px;
+}
+.heading {
+    color: white;
+}
+
+    
